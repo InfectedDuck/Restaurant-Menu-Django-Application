@@ -1,2 +1,2 @@
 # Restaurant-Menu-Django-Application
-django application as a final task of Meta Backend Course
+django application as a final task of Meta Backend Course on Coursera
