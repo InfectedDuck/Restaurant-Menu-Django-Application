@@ -1,2 +1,2 @@
 # Restaurant-Menu-Django-Application
-Writing a restaurant menu website using Django
+django application as a final task of Meta Backend Course
